@@ -1,7 +1,7 @@
 // Preset & Profile Indicator Extension
 // Shows current prompt preset and API profile in a small popup above the button
 
-const MODULE_NAME = 'preset_profile_indicator';
+const MODULE_NAME = 'Preset_Profile_Check';
 
 (function init() {
     const { eventSource, event_types } = SillyTavern.getContext();
