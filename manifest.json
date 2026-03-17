@@ -1,0 +1,10 @@
+{
+    "display_name": "Preset & Profile Indicator",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "claude",
+    "version": "1.0.0",
+    "auto_update": false
+}
